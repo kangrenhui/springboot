@@ -25,6 +25,7 @@ public class HelloAppliction {
         //我是1.0版本
         //我打了第一个Tag
         //我打了第二个Tag
+        //1234567
         //完成了开发
         SpringApplication.run(HelloAppliction.class,args);
     }
