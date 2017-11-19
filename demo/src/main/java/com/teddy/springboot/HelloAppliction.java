@@ -22,7 +22,7 @@ public class HelloAppliction {
     }
 
     public static void main(String[] args){
-        //我是1.0版本
+        //我是1.0版本12
         SpringApplication.run(HelloAppliction.class,args);
     }
 }
