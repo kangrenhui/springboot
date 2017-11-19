@@ -6,4 +6,5 @@ package com.teddy.springboot;
 public class TwoVersion {
     private String a;
     private String b;
+    private String c;
 }
