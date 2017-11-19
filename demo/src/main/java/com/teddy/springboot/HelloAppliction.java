@@ -22,10 +22,7 @@ public class HelloAppliction {
     }
 
     public static void main(String[] args){
-        //我用笔记本进行了修改
-        //我用了Git进行了代码的更改
-        //我尽兴了代码混合
-        //java必须要运行一个应用，这个应用必须要又springbootapplication的注解
+
         SpringApplication.run(HelloAppliction.class,args);
     }
 }
